@@ -47,7 +47,3 @@ This repository contains Jupyter Notebook labs for the "Machine Learning with Py
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify this description according to your preferences and the structure of your repository!
